@@ -19,3 +19,6 @@ public class PrintNumberReverse {
         scn.close();
     }    
 }
+
+//Printing number from N to 1 
+// e.g. for n = 5           o/p = 5 4 3 2 1  
