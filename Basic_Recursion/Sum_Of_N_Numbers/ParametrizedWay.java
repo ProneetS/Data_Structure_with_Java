@@ -23,3 +23,7 @@ public class ParametrizedWay {
         scn.close();
     }
 }
+
+
+//This is Parameterized way of calling a Function through Parameter. Where we are returning the value and not the function. 
+// It means all the work are done through parameter value calculation. 
