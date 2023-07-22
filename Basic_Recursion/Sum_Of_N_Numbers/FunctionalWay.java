@@ -21,3 +21,6 @@ public class FunctionalWay {
         scn.close();
     }
 }
+
+////This is FUNCTIONAL way of calling a Function throuGH A FUNCTION. Where the function waits till the called function return the value and then calculate the sum. 
+// Functions are handelling the work by itself. 
